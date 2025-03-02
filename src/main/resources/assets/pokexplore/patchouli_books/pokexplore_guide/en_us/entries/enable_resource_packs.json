@@ -1,0 +1,24 @@
+{
+    "name": "Enable Resource Packs",
+    "icon": "minecraft:painting",
+    "category": "pokexplore:install_help",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["pokexplore:textures/patchouli/server-list-edit.png"],
+            "border": true,
+            "text": "Disconnect, select PokeXplore in the Multiplayer list, then click the 'Edit' button."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["pokexplore:textures/patchouli/resourcepacks-enabled.png"],
+            "border": true,
+            "text": "Change 'Server Resource Packs' to 'Enabled', then click 'Done'."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The resource pack should automatically install once you re-connect to PokeXplore. Afterwards, this book will be filled with helpful tips and tricks!"
+        }
+    ]
+}

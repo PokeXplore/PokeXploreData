@@ -1,0 +1,15 @@
+{
+  "parent": "pokexplore:badges",
+  "display": {
+    "icon": {
+      "id": "minecraft:nether_star"
+    },
+    "title": "Basilisk Badge",
+    "description": "Defeat the Dragon/Poison Basilisk Gym for the first time"
+  },
+  "criteria": {
+    "command_only": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

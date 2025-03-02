@@ -1,0 +1,5 @@
+{
+    "name": "Installation Help",
+    "description": "This category contains a few ways to get the most out of your PokeXplore modpack. If you're experiencing poor FPS, remember to $(l:allocate_ram)allocate more RAM!",
+    "icon": "cobblemon:pc"
+}

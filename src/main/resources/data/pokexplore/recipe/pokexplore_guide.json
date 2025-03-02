@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "item": "minecraft:book"
+        }
+    ],
+    "result": {
+        "components": {
+            "patchouli:book": "pokexplore:pokexplore_guide"
+        },
+        "count": 1,
+        "id": "patchouli:guide_book"
+    }
+}

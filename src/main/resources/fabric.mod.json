@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "pokexplore",
+	"version": "${version}",
+	"name": "PokeXplore Data",
+	"description": "This mod provides a few datapacks for use on the PokeXplore Cobblemon server, including content for a Patchouli guide book and custom advancements. A server resource pack expands on the content of this mod.",
+	"authors": [
+		"Flarkinater"
+	],
+	"contact": {
+		"homepage": "https://www.pokexplore.com",
+		"discord": "https://discord.gg/DjEaNjpkFZ",
+		"sources": ""
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/pokexplore/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.github.flarkinater.pokexplore.PokeXploreData"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*",
+		"cobblemon": "*",
+		"patchouli": "*"
+	}
+}

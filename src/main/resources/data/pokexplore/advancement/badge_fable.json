@@ -1,0 +1,15 @@
+{
+  "parent": "pokexplore:badges",
+  "display": {
+    "icon": {
+      "id": "minecraft:nether_star"
+    },
+    "title": "Fable Badge",
+    "description": "Defeat the Fighting/Fairy Fable Gym for the first time"
+  },
+  "criteria": {
+    "command_only": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "pokexplore:badges",
+  "display": {
+    "icon": {
+      "id": "minecraft:nether_star"
+    },
+    "title": "Dreadnought Badge",
+    "description": "Defeat the Water/Steel Dreadnought Gym for the first time"
+  },
+  "criteria": {
+    "command_only": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

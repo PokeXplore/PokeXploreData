@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "id": "pokexplore:pokexplore_icon"
+        },
+        "background": "minecraft:textures/block/amethyst_block.png",
+        "title": "PokeXplore",
+        "description": "Welcome to PokeXplore! Use the PokeXplore Guide book for crucial server info",
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "has_joined": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "loot": [
+            "pokexplore:grant_server_guide"
+        ],
+        "recipes": [
+            "patchouli:guide_book"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "pokexplore:badges",
+  "display": {
+    "icon": {
+      "id": "minecraft:nether_star"
+    },
+    "title": "Infernal Badge",
+    "description": "Defeat the Fire/Dark Infernal Gym for the first time"
+  },
+  "criteria": {
+    "command_only": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

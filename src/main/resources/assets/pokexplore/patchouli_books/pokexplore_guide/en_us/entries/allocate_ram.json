@@ -1,0 +1,16 @@
+{
+    "name": "Allocate RAM",
+    "icon": "cobblemon:dubious_disc",
+    "category": "pokexplore:install_help",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "For this modpack we recommend allocating at least 4GB (4096MB) of RAM, but 8-10GB would be even better if your computer can handle it.$(br2)How to allocate more RAM depends on what launcher you're using; the next page has links to instructions for several popular launchers."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l:https://nodecraft.com/support/games/minecraft/general/how-to-allocate-more-ram-to-minecraft-launchers)Default Minecraft Launcher$(br)$(l:https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/307/How-to-allocate-more-ram-in-the-ATLauncher.html)ATLauncher$(br)$(l:https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/613/How-to-allocate-more-ram-in-the-MultiMC-launcher.html)MultiMC/Prism$(br)$(l:https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/305/How-to-allocate-more-ram-in-the-CurseForge-launcher.html)CurseForge$(br)$(l:https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/309/How-to-allocate-more-ram-in-the-Technic-Launcher.html)Technic Launcher$(br)$(l:https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/306/How-to-allocate-more-ram-in-the-GDLauncher.html)GDLauncher"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Client-side Mods",
+    "icon": "minecraft:player_head",
+    "category": "pokexplore:install_help",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This page is a Work In Progress.$(br2)You can use the Mod Groups mod installed with this modpack to enable optional mods. These include shaders and other graphics mods that may hurt performance on some computers."
+        }
+    ]
+}

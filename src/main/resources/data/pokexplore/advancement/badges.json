@@ -1,0 +1,16 @@
+{
+  "parent": "pokexplore:welcome",
+  "display": {
+    "icon": {
+      "id": "cobblemon:punching_glove"
+    },
+    "background": "minecraft:textures/block/amethyst_block.png",
+    "title": "A Challenger Approaches...",
+    "description": "Use the '/gyms' menu to challenge one of PokeXplore's 9 Gyms"
+  },
+  "criteria": {
+    "command_only": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

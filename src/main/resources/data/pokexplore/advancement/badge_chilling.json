@@ -1,0 +1,15 @@
+{
+  "parent": "pokexplore:badges",
+  "display": {
+    "icon": {
+      "id": "minecraft:nether_star"
+    },
+    "title": "Chilling Badge",
+    "description": "Defeat the Ice/Ghost Chilling Gym for the first time"
+  },
+  "criteria": {
+    "command_only": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
