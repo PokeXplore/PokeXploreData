@@ -1,6 +1,7 @@
 package com.github.flarkinater.pokexplore;
 
 import com.github.flarkinater.pokexplore.item.PokeXploreItems;
+import com.github.flarkinater.pokexplore.sound.PokeXploreSounds;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -19,8 +20,11 @@ public class PokeXploreData implements ModInitializer {
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
+		LOGGER.info("Initializing PokeXploreData");
 
+		PokeXploreSounds.initialize();
 		PokeXploreItems.initialize();
-		LOGGER.info("Initialized PokeXplore Guide");
+
+		LOGGER.info("Initialized PokeXploreData");
 	}
 }

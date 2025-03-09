@@ -1,0 +1,11 @@
+{
+    "comparator_output": 15,
+    "description": {
+        "translate": "item.pokexplore.music_disc_the_drill.desc"
+    },
+    "length_in_seconds": 166.5858,
+    "sound_event": {
+        "sound_id": "pokexplore:the_drill",
+        "range": 64.0
+    }
+}

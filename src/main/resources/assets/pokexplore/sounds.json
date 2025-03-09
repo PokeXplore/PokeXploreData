@@ -1,0 +1,29 @@
+{
+  "quill": {
+    "subtitle": "sound.pokexplore.quill",
+    "sounds": [
+      {
+        "name": "pokexplore:quill",
+        "stream": true
+      }
+    ]
+  },
+  "chalice_and_requiem": {
+    "subtitle": "sound.pokexplore.chalice_and_requiem",
+    "sounds": [
+      {
+        "name": "pokexplore:chalice_and_requiem",
+        "stream": true
+      }
+    ]
+  },
+  "the_drill": {
+    "subtitle": "sound.pokexplore.the_drill",
+    "sounds": [
+      {
+        "name": "pokexplore:the_drill",
+        "stream": true
+      }
+    ]
+  }
+}
