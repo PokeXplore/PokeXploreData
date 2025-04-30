@@ -2,7 +2,7 @@
   "parent": "pokexplore:badges",
   "display": {
     "icon": {
-      "id": "minecraft:nether_star"
+      "id": "pokexplore:badge_bioluminescence"
     },
     "title": "Bioluminescence Badge",
     "description": "Defeat the Electric/Grass Bioluminescence Gym for the first time"

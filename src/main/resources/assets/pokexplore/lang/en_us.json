@@ -1,6 +1,16 @@
 {
   "item.pokexplore.pokexplore_icon": "PokeXplore Icon",
 
+  "item.pokexplore.badge_basilisk": "Basilisk Badge",
+  "item.pokexplore.badge_bioluminescence": "Bioluminescence Badge",
+  "item.pokexplore.badge_chilling": "Chilling Badge",
+  "item.pokexplore.badge_dreadnought": "Dreadnought Badge",
+  "item.pokexplore.badge_duality": "Duality Badge",
+  "item.pokexplore.badge_fable": "Fable Badge",
+  "item.pokexplore.badge_infernal": "Infernal Badge",
+  "item.pokexplore.badge_meteor": "Meteor Badge",
+  "item.pokexplore.badge_terrabyte": "Terrabyte Badge",
+
   "item.pokexplore.music_disc_quill": "Music Disc",
   "item.pokexplore.music_disc_chalice": "Music Disc",
   "item.pokexplore.music_disc_the_drill": "Music Disc",

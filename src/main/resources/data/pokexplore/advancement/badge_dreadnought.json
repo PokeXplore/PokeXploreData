@@ -2,7 +2,7 @@
   "parent": "pokexplore:badges",
   "display": {
     "icon": {
-      "id": "minecraft:nether_star"
+      "id": "pokexplore:badge_dreadnought"
     },
     "title": "Dreadnought Badge",
     "description": "Defeat the Water/Steel Dreadnought Gym for the first time"

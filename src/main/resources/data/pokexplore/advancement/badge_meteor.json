@@ -2,7 +2,7 @@
   "parent": "pokexplore:badges",
   "display": {
     "icon": {
-      "id": "minecraft:nether_star"
+      "id": "pokexplore:badge_meteor"
     },
     "title": "Meteor Badge",
     "description": "Defeat the Rock/Flying Meteor Gym for the first time"

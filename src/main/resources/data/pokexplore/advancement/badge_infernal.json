@@ -2,7 +2,7 @@
   "parent": "pokexplore:badges",
   "display": {
     "icon": {
-      "id": "minecraft:nether_star"
+      "id": "pokexplore:badge_infernal"
     },
     "title": "Infernal Badge",
     "description": "Defeat the Fire/Dark Infernal Gym for the first time"

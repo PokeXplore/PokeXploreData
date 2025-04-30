@@ -2,7 +2,7 @@
   "parent": "pokexplore:badges",
   "display": {
     "icon": {
-      "id": "minecraft:nether_star"
+      "id": "pokexplore:badge_terrabyte"
     },
     "title": "Terrabyte Badge",
     "description": "Defeat the Bug/Ground Terrabyte Gym for the first time"
