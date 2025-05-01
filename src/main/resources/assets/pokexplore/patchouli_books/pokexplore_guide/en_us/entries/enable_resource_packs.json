@@ -18,7 +18,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "The resource pack should automatically install once you re-connect to PokeXplore. Afterwards, this book will be filled with helpful tips and tricks!"
+            "text": "WIP: Currently PokeXplore doesn't have a server pack. But once we add one, it should automatically install the next time you re-connect."
         }
     ]
 }
